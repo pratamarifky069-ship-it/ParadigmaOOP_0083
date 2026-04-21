@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 
+// Membuat class Mahasiswa
 class Mahasiswa{
 public:
     int nim;
